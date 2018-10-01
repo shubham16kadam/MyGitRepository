@@ -8,11 +8,11 @@ Are u nuts!
 
 Hello there
 
-Change --> 1
+change --> 1
 
-Change --> 1
+change --> 1
 
-Change -->3
+change -->3
 
 
 new line safe line
